@@ -5,8 +5,13 @@ By day, I'm a B.Tech. student, delving into the fascinating world of AI and Mach
 ## Skills
 1. Python
 2. C/C++
-3. Java
-4. Game Development
-5. Data Analyst
-6. Generative AI model training
-7. Content Writer
+3. SQL
+4. SQL Plus
+5. PostgreSQL
+6. PL/SQL
+7. Machine Learning
+8. Financial Analytics
+9. Data Analyst
+10. RLHF Model Development
+11. Applied Mathematics
+12. Game Development
