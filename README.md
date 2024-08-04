@@ -1,4 +1,4 @@
-## ABout Me
+## About Me
 
 I am currently pursuing a BTech in Computer Science with a specialization in Artificial Intelligence and Machine Learning at Vellore Institute of Technology Chennai, maintaining a CGPA of 3.55/4.00. My academic journey has equipped me with a strong foundation in AI and ML, data analytics, and software development. I have practical experience gained through various projects and internships, where I have applied my skills in real-world scenarios.
 
